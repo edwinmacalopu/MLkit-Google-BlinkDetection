@@ -2,11 +2,16 @@
 
 Simple app to detect eye blink using ml kit google
 
+
 ## :test_tube: Demo
 ![](https://github.com/edwinmacalopu/MLkit-Google-BlinkDetection/blob/main/demo.gif)
 
+
+
 ## :iphone: Apk
 [Mlkit_BlinkDetection.apk](https://github.com/edwinmacalopu/MLkit-Google-BlinkDetection/releases/download/v1.0/MLkit_BlinkDetection.apk)
+
+
 
 ## :bulb: Stack & References
 - [CameraX](https://developer.android.com/jetpack/androidx/releases/camera) - Camera
